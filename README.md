@@ -64,11 +64,11 @@ Turning ideas into impactful digital solutions 🚀
 
 ## 🔐 Cybersecurity & Networking
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=plastic&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=plastic&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=plastic&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=plastic&logo=kalilinux&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=plastic&logo=owasp&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%2300497A.svg?style=plastic&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-%230084C6.svg?style=plastic&logo=gns3&logoColor=white)
