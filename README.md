@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 Hi, I'm Samaresh
+# 👋 Hi, I'm Aditya
 
 💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast  
 
