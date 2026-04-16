@@ -26,7 +26,7 @@ Turning ideas into impactful digital solutions 🚀
   <a href="https://www.instagram.com/adirox249"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aditya-roy-322467331"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/AdityaRoy2004"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:samareshdebnath2442@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aditya.roy180404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
