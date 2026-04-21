@@ -99,9 +99,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-180404/Aditya-180404/outputgithub-contribution-grid-snake.svg" />
-</p>
+![Snake animation](https://github.com/Aditya-180404/Aditya-180404/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
