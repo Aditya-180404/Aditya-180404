@@ -144,7 +144,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-180404&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-180404&theme=tokyonight"/>
 </p>
 
 ## ✍️ Dev Quote
