@@ -92,35 +92,56 @@
 # 🖥️ Server
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-%230078D6?style=flat&logo=windows&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aditya-180404&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Aditya-180404&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya-180404&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-180404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Aditya-180404&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-180404&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Aditya-180404/Aditya-180404/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github.com/Aditya-180404/Aditya-180404/blob/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" 
+         src="https://github.com/Aditya-180404/Aditya-180404/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
----
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-180404&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ## 🧠 Tech Highlights
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-FF4C60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-7CFC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-FF4C60?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-7CFC00?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya-180404&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-180404&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aditya-180404&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
