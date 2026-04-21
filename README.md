@@ -103,6 +103,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-180404&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-180404&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-180404&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-180404&theme=tokyonight"/>
+</p>
+
 
 ## 🐍 Contribution Snake
 
@@ -121,6 +130,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-180404&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-180404&theme=tokyonight"/>
+</p>
+
 ## 🧠 Tech Highlights
 
 <p align="center">
@@ -130,6 +143,7 @@
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/Aditya-180404/Aditya-180404/main/github-metrics.svg"/>
 
 ## 🏆 GitHub Trophies
 
