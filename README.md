@@ -1,138 +1,27 @@
-<!-- 🚀 Premium Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+Profile;💻+Full+Stack+Developer;🔐+Cybersecurity+Enthusiast;🚀+Secure+%7C+Build+%7C+Innovate;⚡+Code+with+Purpose" />
-</p>
+# 💫 About Me:
+💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast  <br><br>I build responsive and efficient web applications with a focus on **security and performance**.  <br>Interested in **ethical hacking, secure coding practices, and system design**.  <br>Turning ideas into impactful digital solutions 🚀  <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6mR2w9ax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adirox249) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-roy-322467331) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaRoy2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.roy180404@gmail.com) 
 
-# 👋 Hi, I'm Aditya
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aditya-180404&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Aditya-180404&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya-180404&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aditya-180404&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I build responsive and efficient web applications with a focus on **security and performance**.  
-Interested in **ethical hacking, secure coding practices, and system design**.  
-Turning ideas into impactful digital solutions 🚀  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://discord.gg/1292011730439897098"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.instagram.com/adirox249"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aditya-roy-322467331"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/AdityaRoy2004"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:aditya.roy180404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aditya-180404&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Aditya-180404&icon=0&color=6)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack
-
-<!-- YOUR ORIGINAL STACK (UNCHANGED) -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
- 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) 
-
----
-
-## 🔐 Cybersecurity & Networking
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=plastic&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=plastic&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=plastic&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=plastic&logo=owasp&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%2300497A.svg?style=plastic&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-%230084C6.svg?style=plastic&logo=gns3&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Glass Container -->
-<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Samar2442&show_icons=true&theme=tokyonight&hide_border=true" width="320" style="border-radius:15px; box-shadow:0 8px 32px rgba(0,0,0,0.4); transition:0.3s;"/>
-
-<img src="https://streak-stats.demolab.com?user=Samar2442&theme=tokyonight&hide_border=true" width="320" style="border-radius:15px; box-shadow:0 8px 32px rgba(0,0,0,0.4); transition:0.3s;"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar2442&layout=compact&theme=tokyonight&hide_border=true" width="320" style="border-radius:15px; box-shadow:0 8px 32px rgba(0,0,0,0.4); transition:0.3s;"/>
-
-</div>
-
-</div>
-
----
-
-## 🧠 Tech Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-FF4C60?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-7CFC00?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samar2442&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samar2442/Samar2442/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</p>
-
----
-
-
-## 💡 Fun Line
-
-> “Code. Secure. Repeat.” 🔐
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
