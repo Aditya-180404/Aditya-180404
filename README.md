@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=1700&pause=900&color=00F7FF&center=true&vCenter=true&width=820&lines=👋+Aditya+Roy;💻+Full+Stack+Engineer+%7C+🔐+Cybersecurity;⚡+AI+Driven+Systems+%7C+Secure+Architecture" />
 </p>
 
-<img src="your-binary-snake.gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-180404/Aditya-180404/output/binary-snake.svg" />
+</p>
 
 <!-- 🧠 Secondary Signal Line -->
 <p align="center">
