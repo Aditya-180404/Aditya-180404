@@ -1,0 +1,50 @@
+name: Generate Binary Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Binary Snake SVG
+        run: |
+          mkdir -p dist
+          cat << 'EOF' > dist/binary-snake.svg
+          <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40">
+            <style>
+              text {
+                font-family: monospace;
+                fill: #00FFAA;
+                font-size: 14px;
+              }
+              .move {
+                animation: scroll 6s linear infinite;
+              }
+              @keyframes scroll {
+                from { transform: translateX(0); }
+                to { transform: translateX(-500px); }
+              }
+            </style>
+
+            <text x="0" y="25" class="move">
+              0101101001010110010101100101011001010110010101100101011001010110010101100101011001010110
+              1100101011001010110010101100101011001010110010101100101011001010110010101100101011001010
+            </text>
+          </svg>
+          EOF
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
