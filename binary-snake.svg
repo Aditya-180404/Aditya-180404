@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40">
+  <style>
+    text {
+      font-family: monospace;
+      fill: #00FFAA;
+      font-size: 14px;
+    }
+    .move {
+      animation: scroll 6s linear infinite;
+    }
+    @keyframes scroll {
+      from { transform: translateX(0); }
+      to { transform: translateX(-500px); }
+    }
+  </style>
+
+  <text x="0" y="25" class="move">
+    0101101001010110010101100101011001010110010101100101011001010110010101100101011001010110
+    1100101011001010110010101100101011001010110010101100101011001010110010101100101011001010
+  </text>
+</svg>
