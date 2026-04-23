@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=1700&pause=900&color=00F7FF&center=true&vCenter=true&width=820&lines=👋+Aditya+Roy;💻+Full+Stack+Engineer+%7C+🔐+Cybersecurity;⚡+AI+Driven+Systems+%7C+Secure+Architecture" />
 </p>
 
+<img src="your-binary-snake.gif" />
+
 <!-- 🧠 Secondary Signal Line -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=1400&pause=600&color=00FFAA&center=true&vCenter=true&width=720&lines=⚙️+Scalable+Web+Apps+%7C+🛡️+Offensive+%2F+Defensive+Security+%7C+🌐+Automation+%2B+Intelligence" />
@@ -19,6 +21,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0f2027&height=2"/>
 </p>
+
 # 👋 Hi, I'm Aditya
 
 
