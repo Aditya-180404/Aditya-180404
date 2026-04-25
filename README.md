@@ -5,16 +5,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=2"/>
 </p>
 
+<!-- TYPEWRITER HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=820&repeat=true&cursor=true&lines=👋+Aditya+Roy;💻+Full+Stack+Engineer+%7C+🔐+Cybersecurity;⚡+AI+Driven+Systems+%7C+Secure+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2000&pause=900&color=00F7FF&center=true&vCenter=true&width=820&repeat=true&cursor=true&lines=👋+Aditya+Roy;💻+Full+Stack+Engineer+%7C+🔐+Cybersecurity;⚡+AI+Driven+Systems+%7C+Secure+Architecture" />
 </p>
 
+<!-- DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=6&animation=fadeIn"/>
 </p>
 
+<!-- SECOND LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=1800&pause=600&color=00FFAA&center=true&vCenter=true&width=720&repeat=true&cursor=true&lines=⚙️+Scalable+Web+Apps+%7C+🛡️+Offensive+%2F+Defensive+Security+%7C+🌐+Automation+%2B+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=15&duration=1800&pause=700&color=00FFAA&center=true&vCenter=true&width=720&repeat=true&cursor=true&lines=⚙️+Scalable+Web+Apps;🛡️+Offensive+%2F+Defensive+Security;🌐+Automation+%2B+Intelligence" />
 </p>
 
 # 👋 Hi, I'm Aditya
