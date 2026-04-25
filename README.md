@@ -20,6 +20,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=15&duration=1800&pause=700&color=00FFAA&center=true&vCenter=true&width=720&repeat=true&cursor=true&lines=⚙️+Scalable+Web+Apps;🛡️+Offensive+%2F+Defensive+Security;🌐+Automation+%2B+Intelligence" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=2"/>
+</p>
+
+
 # 👋 Hi, I'm Aditya
 
 
