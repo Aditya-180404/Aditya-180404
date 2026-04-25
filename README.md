@@ -5,23 +5,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=2"/>
 </p>
 
-<!-- 🚀 Primary Identity -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=1700&pause=900&color=00F7FF&center=true&vCenter=true&width=820&lines=👋+Aditya+Roy;💻+Full+Stack+Engineer+%7C+🔐+Cybersecurity;⚡+AI+Driven+Systems+%7C+Secure+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=820&repeat=true&cursor=true&lines=👋+Aditya+Roy;💻+Full+Stack+Engineer+%7C+🔐+Cybersecurity;⚡+AI+Driven+Systems+%7C+Secure+Architecture" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=6&animation=fadeIn"/>
 </p>
 
-<!-- 🧠 Secondary Signal Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=1400&pause=600&color=00FFAA&center=true&vCenter=true&width=720&lines=⚙️+Scalable+Web+Apps+%7C+🛡️+Offensive+%2F+Defensive+Security+%7C+🌐+Automation+%2B+Intelligence" />
-</p>
-
-<!-- 🔸 Micro Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0f2027&height=2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=1800&pause=600&color=00FFAA&center=true&vCenter=true&width=720&repeat=true&cursor=true&lines=⚙️+Scalable+Web+Apps+%7C+🛡️+Offensive+%2F+Defensive+Security+%7C+🌐+Automation+%2B+Intelligence" />
 </p>
 
 # 👋 Hi, I'm Aditya
