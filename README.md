@@ -12,7 +12,7 @@
 <!-- Pull typing animation upward -->
 <p align="center" style="margin-top:-40px;">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=1900&pause=600&color=0EA5E9&center=true&vCenter=true&width=760&height=28&lines=%24+boot+--profile+aditya;Initializing+AI+Modules...;Loading+Cybersecurity+Toolkit...;Launching+Full+Stack+Environment...;Status:+READY+✓"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=1900&pause=600&color=0EA5E9&center=true&vCenter=true&width=760&height=28&lines=AI+Developer;Cybersecurity+Researcher;Full+Stack+Engineer;Building+Secure+Intelligent+Systems"
   />
 </p>
 
