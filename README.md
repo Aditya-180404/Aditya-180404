@@ -275,7 +275,15 @@ MISSION     = Secure • Build • Automate
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-180404&theme=tokyo-night&hide_border=true"/>
 </p>
 
+# 🚀 Current Focus
 
+```bash
+[] Full Stack Development
+[] Cybersecurity & Ethical Hacking
+[] Cloud Infrastructure
+[] Networking & DevOps
+[] Upskill
+```
 
 # 🧠 Tech Highlights
 
