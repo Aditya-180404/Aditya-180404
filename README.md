@@ -237,14 +237,21 @@ $ mission
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-180404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-180404&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-180404&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-180404&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-180404&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-180404&theme=tokyonight"/>
 </p>
+
+
+<p align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-180404&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+
 
 ## 🐍 Contribution Snake
 
