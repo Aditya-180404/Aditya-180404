@@ -99,7 +99,7 @@ $ role
 
 > Computer Science Student<br>
 > Full Stack Developer<br>
-> Security Research Enthusiast
+> Ethical Hacking
 
 
 $ environment
@@ -124,6 +124,13 @@ $ currently_building
 > Websites<br>
 > Security Automation
 
+$ hobbies
+
+> Reverse Engineering<br>
+> Capture The Flag (CTFs)<br>
+> Open Source Development<br>
+> Linux Customization<br>
+> Learning Emerging Technologies
 
 $ mission
 
@@ -136,7 +143,30 @@ $ mission
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6mR2w9ax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adirox249) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-roy-322467331) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdityaRoy2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.roy180404@gmail.com) 
+
+<p align="center">
+
+<a href="https://linkedin.com/in/aditya-roy-322467331">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/adirox249">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/AdityaRoy2004">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:aditya.roy180404@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/https://discord.gg/6mR2w9ax">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -189,38 +219,26 @@ $ mission
 # 🔐 Cybersecurity
 
 <p align="center">
-
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>&nbsp;&nbsp;
-<img height="50" src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux"/>&nbsp;&nbsp;
-<img height="50" src="https://cdn.simpleicons.org/wireshark" alt="Wireshark"/>&nbsp;&nbsp;
-<img height="50" src="https://cdn.simpleicons.org/owasp" alt="OWASP"/>&nbsp;&nbsp;
-<img height="50" src="https://cdn.simpleicons.org/cisco" alt="Cisco"/>
-
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  <img height="50" src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" />
+  <img height="50" src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" />
+  <img height="50" src="https://cdn.simpleicons.org/owasp" alt="OWASP" />
+  <img height="50" src="https://cdn.simpleicons.org/cisco" alt="Cisco" />
 </p>
 
-<p align="center">
 
-
-
-</p>
 
 ---
 
 # 🖥️ Infrastructure
 
 <p align="center">
-
-<img height="50" src="https://cdn.simpleicons.org/windows11" alt="Windows"/>&nbsp;&nbsp;
-<img height="50" src="https://cdn.simpleicons.org/vmware" alt="VMware"/>&nbsp;&nbsp;
-<img height="50" src="https://cdn.simpleicons.org/cisco" alt="Cisco"/>&nbsp;&nbsp;
-<img height="50" src="https://cdn.simpleicons.org/docker" alt="Docker"/>
-
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows 11" />
+  <img height="50" src="https://cdn.simpleicons.org/vmware" alt="VMware" />
+  <img height="50" src="https://cdn.simpleicons.org/cisco" alt="Cisco" />
+  <img height="50" src="https://cdn.simpleicons.org/docker" alt="Docker" />
 </p>
 
-<p align="center">
-
-
-</p>
 
 ---
 
@@ -253,11 +271,6 @@ $ mission
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-180404&theme=tokyo-night&hide_border=true"/>
 </p>
 
-# Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-180404/Aditya-180404/main/github-metrics.svg"/>
-</p>
 
 
 ## 🧠 Tech Highlights
