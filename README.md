@@ -1,39 +1,23 @@
-<!-- ⚡ Ultra-Compact Futuristic Header -->
-
-<!-- 🔹 Thin Neon Scanline -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=2"/>
-</p>
-
-
-<!-- TYPEWRITER HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2000&pause=900&color=00F7FF&center=true&vCenter=true&width=820&repeat=true&cursor=true&lines=👋+Aditya+Roy;💻+Full+Stack+Engineer+%7C+🔐+Cybersecurity;⚡+AI+Driven+Systems+%7C+Secure+Architecture" />
-</p>
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=6&animation=fadeIn"/>
-</p>
-
-<!-- SECOND LINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=15&duration=1800&pause=700&color=00FFAA&center=true&vCenter=true&width=720&repeat=true&cursor=true&lines=⚙️+Scalable+Web+Apps;🛡️+Offensive+%2F+Defensive+Security;🌐+Automation+%2B+Intelligence" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:00F7FF,100:0f2027&text=Aditya%20Roy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=2"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=760&lines=AI+Developer;Cybersecurity+Researcher;Full+Stack+Engineer;Building+Secure+Intelligent+Systems"/>
 </p>
-
-
-# 👋 Hi, I'm Aditya
-
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Aditya+Roy;Full+Stack+Engineer;Cybersecurity+Enthusiast;AI+Systems+Developer"/>
+
+<img src="https://img.shields.io/badge/AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-111111?style=for-the-badge&logo=hackthebox"/>
+<img src="https://img.shields.io/badge/FULL_STACK-0057FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX-222222?style=for-the-badge&logo=linux"/>
+
 </p>
 
-<br>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 <table align="center">
 <tr>
