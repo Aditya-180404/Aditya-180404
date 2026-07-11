@@ -162,7 +162,7 @@ $ mission
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/https://discord.gg/6mR2w9ax">
+<a href="https://discord.gg/6mR2w9ax">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
