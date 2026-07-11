@@ -89,12 +89,10 @@
 
 NAME        = Aditya Roy<br>
 ROLE        = Full Stack Engineer<br>
-STATUS      = Computer Science Student<br>
 COLLEGE     = University Institute of 
               Technology ,BU <br>
-YEAR        = 2nd Year<br>
-Department  = IT
-
+STATUS      = B.Tech IT • 2nd Year<br>
+BATCH       = 2024-2028 <br>
 SPECIALTY   = AI | Cybersecurity | WEB
 
 LANGUAGES   = Python | C | C++ | Java
