@@ -85,14 +85,15 @@
 
 <pre><b><h3>
 ┌──(Adi㉿Github)-[~]
-└─$ cat ~/.profile
+└─$ cat profile.txt
 
 NAME        = Aditya Roy<br>
 ROLE        = Full Stack Engineer<br>
 STATUS      = Computer Science Student<br>
 COLLEGE     = University Institute of 
               Technology ,BU <br>
-YEAR        = 2nd Year
+YEAR        = 2nd Year<br>
+Department  = IT
 
 SPECIALTY   = AI | Cybersecurity | WEB
 
