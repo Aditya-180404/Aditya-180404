@@ -83,52 +83,35 @@
 </pre>
 </td> <td valign="top">
 $ whoami
+> aditya_roy
 
-> ADITYA ROY
+$ cat role.txt
+> Computer Science Student
+Full Stack Engineer
+AI & Cybersecurity Enthusiast
 
+$ ls skills/
+> AI  Backend  Cloud  Cybersecurity  DevOps  Frontend
 
-$ role
+$ ls languages/
+> Python  C  C++  Java  JavaScript  TypeScript  PHP  Bash
 
-> Computer Science Student<br>
-> Full Stack Developer<br>
-> Ethical Hacking
+$ ls security/
+> BurpSuite
+Metasploit
+Nmap
+OWASP
+Wireshark
+KaliLinux
 
+$ ps
+> Building AI Agents...
+Developing Secure Applications...
+Learning Advanced Security...
+Contributing to Open Source...
 
-$ environment
-
-> Windows<br>
-> Windows Server<br>
-> Kali Linux
-
-
-$ expertise
-
-> Web Development<br>
-> Cybersecurity<br>
-> Artificial Intelligence<br>
-> Cloud Computing<br>
-> Server Management
-
-$ currently_building
-
-> AI Agents<br>
-> Secure Applications<br>
-> Websites<br>
-> Security Automation
-
-$ hobbies
-
-> Reverse Engineering<br>
-> Capture The Flag (CTFs)<br>
-> Open Source Development<br>
-> Linux Customization<br>
-> Learning Emerging Technologies
-
-$ mission
-
-> Build intelligent systems.<br>
-> Analyze vulnerable systems.<br>
-> Engineer secure solutions.<br>
+$ echo $MISSION
+> "Secure. Build. Automate. Innovate."
 </td> </tr> </table> <br> 
 
 <p align="center">
