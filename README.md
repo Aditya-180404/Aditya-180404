@@ -129,12 +129,19 @@ $ mission
 > Build intelligent systems.<br>
 > Analyze vulnerable systems.<br>
 > Engineer secure solutions.<br>
-</td> </tr> </table> <br> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00F7FF,100:0f2027&height=3"/> </p> ```
+</td> </tr> </table> <br> 
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
+</p>
 
 💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast  <br><br>I build responsive and efficient web applications with a focus on **security and performance**.  <br>Interested in **ethical hacking, secure coding practices, and system design**.  <br>Turning ideas into impactful digital solutions 🚀  <br>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
+</p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <p align="center">
 
@@ -160,7 +167,9 @@ $ mission
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
+</p>
 
 # ⚡ Tech Stack
 
@@ -208,7 +217,7 @@ $ mission
 
 ---
 
-# 🔐 Cybersecurity
+## 🔐 Cybersecurity
 
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
@@ -222,7 +231,7 @@ $ mission
 
 ---
 
-# 🖥️ Infrastructure
+## 🖥️ Infrastructure
 
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows 11" />
@@ -232,28 +241,28 @@ $ mission
 </p>
 
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
+</p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-180404&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-180404&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-180404&theme=tokyonight"/>
-</p>
-
-
-<p align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-180404&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 
 
-## 🐍 Contribution Snake
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
+</p>
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -264,7 +273,7 @@ $ mission
   </picture>
 </p>
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-180404&theme=tokyo-night&hide_border=true"/>
@@ -272,7 +281,7 @@ $ mission
 
 
 
-## 🧠 Tech Highlights
+# 🧠 Tech Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-00F7FF?style=for-the-badge"/>
@@ -282,13 +291,13 @@ $ mission
 </p>
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-180404&theme=tokyonight"/>
 </p>
 
-## ✍️ Dev Quote
+# ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
