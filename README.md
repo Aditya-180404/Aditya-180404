@@ -131,7 +131,12 @@ MISSION     = Secure • Build • Automate
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
 </p>
 
-💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast  <br><br>I build responsive and efficient web applications with a focus on **security and performance**.  <br>Interested in **ethical hacking, secure coding practices, and system design**.  <br>Turning ideas into impactful digital solutions 🚀  <br>
+💻 Passionate about building scalable web applications and secure infrastructures.
+
+🔐 Exploring cybersecurity, ethical hacking, networking, and cloud technologies.
+
+🚀 Always learning new technologies and building impactful projects.
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
@@ -227,7 +232,7 @@ MISSION     = Secure • Build • Automate
 
 ---
 
-## 🖥️ Infrastructure
+## 🖥️ Infrastructure & Virtualization
 
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows 11" />
@@ -278,10 +283,12 @@ MISSION     = Secure • Build • Automate
 # 🚀 Current Focus
 
 ```bash
-[] Full Stack Development
-[] Cybersecurity & Ethical Hacking
-[] Cloud Infrastructure
-[] Networking & DevOps
+STATUS
+
+✓ AI Engineering
+✓ Secure Web Development
+✓ Offensive Security
+✓ Cloud Computing
 [] Upskill
 ```
 
