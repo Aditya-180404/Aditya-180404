@@ -183,7 +183,7 @@ MISSION     = Secure • Build • Automate
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nodejs,express,nextjs,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nodejs,nextjs,react"/>
 
 </p>
 
