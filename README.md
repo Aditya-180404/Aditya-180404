@@ -1,22 +1,30 @@
+<!-- ================= HEADER ================= -->
+
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:00F7FF,100:0f2027&text=Aditya%20Roy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:00c6ff,100:764ba2&height=145&section=header&text=Aditya%20Roy&fontSize=42&fontColor=ffffff&fontAlignY=34&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<!-- Pull typing animation upward -->
+<p align="center" style="margin-top:-40px;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=1900&pause=600&color=0EA5E9&center=true&vCenter=true&width=760&height=28&lines=%24+boot+--profile+aditya;Initializing+AI+Modules...;Loading+Cybersecurity+Toolkit...;Launching+Full+Stack+Environment...;Status:+READY+✓"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=760&lines=AI+Developer;Cybersecurity+Researcher;Full+Stack+Engineer;Building+Secure+Intelligent+Systems"/>
+  <img src="https://img.shields.io/badge/AI-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=for-the-badge&logo=hackthebox"/>
+  <img src="https://img.shields.io/badge/FULL_STACK-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LINUX-4B5563?style=for-the-badge&logo=linux"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-111111?style=for-the-badge&logo=hackthebox"/>
-<img src="https://img.shields.io/badge/FULL_STACK-0057FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LINUX-222222?style=for-the-badge&logo=linux"/>
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:667eea,50:00c6ff,100:764ba2"/>
 </p>
 
 <table align="center">
