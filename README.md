@@ -82,36 +82,50 @@
 ############################################################
 </pre>
 </td> <td valign="top">
-$ whoami
-> aditya_roy
 
-$ cat role.txt
-> Computer Science Student
-Full Stack Engineer
-AI & Cybersecurity Enthusiast
+<pre><b><h3>
+┌──(Adi㉿Github)-[~]
+└─$ cat ~/.profile
 
-$ ls skills/
-> AI  Backend  Cloud  Cybersecurity  DevOps  Frontend
+NAME        = Aditya Roy<br>
+ROLE        = Full Stack Engineer<br>
+STATUS      = Computer Science Student<br>
+COLLEGE     = University Institute of 
+              Technology ,BU <br>
+YEAR        = 2nd Year
 
-$ ls languages/
-> Python  C  C++  Java  JavaScript  TypeScript  PHP  Bash
+SPECIALTY   = AI | Cybersecurity | WEB
 
-$ ls security/
-> BurpSuite
-Metasploit
-Nmap
-OWASP
-Wireshark
-KaliLinux
+LANGUAGES   = Python | C | C++ | Java
+              JavaScript | TypeScript
+              PHP | Bash
 
-$ ps
-> Building AI Agents...
-Developing Secure Applications...
-Learning Advanced Security...
-Contributing to Open Source...
+PLATFORMS   = Kali Linux | Windows 11
+              Windows Server
 
-$ echo $MISSION
-> "Secure. Build. Automate. Innovate."
+SECURITY    = Burp Suite | Nmap
+              Wireshark | Metasploit
+
+DEV_TOOLS   = Git | Docker | VMware
+              GitHub | VS Code
+
+INTERESTS   = AI Agents
+              Reverse Engineering
+              CTF Challenges
+              Linux Customization
+              Open Source
+
+BUILDING    = Secure Applications
+              LLM Systems
+              Security Automation
+
+MISSION     = Secure • Build • Automate
+              Innovate
+  
+┌──(Adi㉿Github)-[~]
+└─$
+</h3></b></pre>
+
 </td> </tr> </table> <br> 
 
 <p align="center">
