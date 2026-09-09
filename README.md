@@ -158,9 +158,6 @@ MISSION     = Secure • Build • Automate
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://tryhackme.com/p/aditya.roy180404">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
 
 <a href="mailto:aditya.roy180404@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -168,6 +165,10 @@ MISSION     = Secure • Build • Automate
 
 <a href="https://discord.gg/6mR2w9ax">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/aditya.roy180404">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
 </p>
